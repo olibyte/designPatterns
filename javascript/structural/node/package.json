@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
   },
-  "author": "Emmanuel Henri",
+  "author": "Oliver Bennett",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",

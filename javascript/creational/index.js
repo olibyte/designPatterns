@@ -23,7 +23,7 @@
 //singleton pattern checks for an instance of a class
 //if no instance exists, create a new one - otherwise just return the instance
 // let instance = null;
-
+// flyweight pattern is a method to minimise creating the same items twice - similar approach to singleton
 // class Car {
 //     constructor(doors, engine, color) {
 //         if (!instance) {
@@ -36,6 +36,7 @@
 //         }
 //     }
 // }
+// strategy pattern at work - reusing classes to create cars
 // const civic = new Car(2,'V6','grey');
 // const honda = new Car(4,'V7','orange');
 // console.log(civic);
